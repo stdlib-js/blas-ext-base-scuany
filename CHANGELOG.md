@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-13)
+## Unreleased (2026-06-16)
 
 <section class="features">
 
@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`6f55796`](https://github.com/stdlib-js/stdlib/commit/6f557963cba2318227eb675513676f1016c5c77e) - ensure consistent behavior between JavaScript and C [(#12903)](https://github.com/stdlib-js/stdlib/pull/12903)
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`6f55796`](https://github.com/stdlib-js/stdlib/commit/6f557963cba2318227eb675513676f1016c5c77e) - **fix:** ensure consistent behavior between JavaScript and C [(#12903)](https://github.com/stdlib-js/stdlib/pull/12903) _(by Muhammad Haris)_
 -   [`2746540`](https://github.com/stdlib-js/stdlib/commit/2746540701dd2555d54c53cb1c71a3bc4c9b689d) - **feat:** add `blas/ext/base/scuany` [(#12739)](https://github.com/stdlib-js/stdlib/pull/12739) _(by Muhammad Haris)_
 
 </details>
